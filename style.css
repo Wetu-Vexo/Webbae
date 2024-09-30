@@ -18,6 +18,10 @@
 }
 body{
     background: #ffafcc;
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
 }
 .quote_box{
     background: #bde0fe;
