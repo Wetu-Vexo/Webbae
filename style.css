@@ -7,7 +7,15 @@
     box-sizing: border-box;
     font-family: 'Roboto Mono',serif;
 }
+@media (max-width: 768px) {
+    .quote_box {
+        padding: 20px; /* Reduce padding for smaller devices */
+    }
 
+    .clickbut {
+        padding: 8px 16px; /* Smaller button padding for mobile */
+    }
+}
 body{
     background: #ffafcc;
 }
