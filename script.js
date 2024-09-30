@@ -5,7 +5,7 @@ const word = [
     "My love for you is the same as the size of Oggy's house; it's infinite.",
     "Have a good day oun somlanh",
     "Khernh tomhom jit bong ort",
-    "Would you still love me if I were a worm?If you were a worm, I'd be your early bird because I'll always get you.",
+    "Would you still love me if I were a worm? If you were a worm, I'd be your early bird because I'll always get you.",
     "Believe you can and you're halfway there.",
  
 ]
